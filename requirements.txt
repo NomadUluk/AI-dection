@@ -1,0 +1,5 @@
+Pixellib
+ImageAI
+Pycocotools
+PyTorch & Torchvision
+python 3.10 stable
